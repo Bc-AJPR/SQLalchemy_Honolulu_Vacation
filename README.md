@@ -9,3 +9,5 @@ Part 2
 app.py file is completed, file is completd. no furhter work is required
 
 Working on Bonus questions.
+
+All Done - Partially finished the Bonus questions.
